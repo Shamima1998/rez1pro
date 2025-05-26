@@ -1,3 +1,2 @@
 # rez1pro
-[https://shamima1998.github.io/rez1pro/
-](https://github.com/Shamima1998/rez1pro/blob/8d2dbea06f857c49fc9b6ca7e8147eaf159a51f6/489385603_1608198727236496_1566147511005590105_n.jpg)
+https://github.com/Shamima1998/rez1pro/blob/8d2dbea06f857c49fc9b6ca7e8147eaf159a51f6/489385603_1608198727236496_1566147511005590105_n.jpg
